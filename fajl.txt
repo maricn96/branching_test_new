@@ -1,3 +1,6 @@
 ovi podaci idu na produkciju
 
 dodati neki novi podaci koji idu na testiranje, ne smeju jos na produkciju
+
+ubacena jos jedna izmena na sledeci komit odnosno push
+
